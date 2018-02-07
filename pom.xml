@@ -12,6 +12,7 @@
         <module>eureka-server-two</module>
         <module>hello-service</module>
         <module>chapter-three</module>
+        <module>chapter-four</module>
     </modules>
     <packaging>pom</packaging>
 

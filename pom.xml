@@ -9,7 +9,10 @@
     <modules>
         <module>chapter-two</module>
 		<module>eureka-server</module>
-	</modules>
+        <module>eureka-server-two</module>
+        <module>hello-service</module>
+        <module>chapter-three</module>
+    </modules>
     <packaging>pom</packaging>
 
 	<name>spring-cloud-micro-server-book-master</name>
